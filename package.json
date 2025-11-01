@@ -27,7 +27,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@adiwajshing/baileys":"github:BrunoSobrino/Baileys-Itsukichann",
+    "@adiwajshing/baileys":"npm:wileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^4.2.4",
     "@brandond/findthelyrics": "^2.0.5",
@@ -42,7 +42,7 @@
     "aptoide-scraper": "github:DIEGO-OFC/dv-aptoide-scraper",
     "awesome-phonenumber": "^2.68.0",
     "axios": "^1.7.3",
-        "baileys": "github:BrunoSobrino/Baileys-Itsukichann",
+        "baileys": "npm:wileys",
     "body-parser": "^1.20.2",
     "btch-downloader": "*",
     "canvafy": "^7.1.0",
