@@ -42,7 +42,7 @@
     "aptoide-scraper": "github:DIEGO-OFC/dv-aptoide-scraper",
     "awesome-phonenumber": "^2.68.0",
     "axios": "^1.7.3",
-    "baileys": "github:BrunoSobrino/Baileys-Itsukichann",
+        "baileys": "github:BrunoSobrino/Baileys-Itsukichann",
     "body-parser": "^1.20.2",
     "btch-downloader": "*",
     "canvafy": "^7.1.0",
